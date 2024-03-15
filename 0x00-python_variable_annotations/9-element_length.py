@@ -1,4 +1,4 @@
-#!/usr/bin/env pyhon3
+#!/usr/bin/env python3
 """annotation of a function
 """
 from typing import Iterable, Tuple, Sequence, List
