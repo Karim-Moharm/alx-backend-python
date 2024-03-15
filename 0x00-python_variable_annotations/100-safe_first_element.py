@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""duck type annitation
+"""
 from typing import Sequence, Any, Union
 
 
